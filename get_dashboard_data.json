@@ -5,32 +5,26 @@
   "account_list": {
     "123": 23000,
     "456": 50000,
-    "789": 600,
-    
+    "789": 600
   },
   "amount_type_list": {
     "123": {
       "dues": 1800,
       "deposit": 23000,
       "investment": 20000,
-      "profit": 600,
-      
+      "profit": 600
     },
     "456": {
       "dues": 600,
       "deposit": 50000,
       "investment": 50000,
-      "profit": 1000,
-      
+      "profit": 1000
     },
     "789": {
       "dues": 0,
       "deposit": 600,
       "investment": 0,
-      "profit": 0,
-      
-    },
-    
-  },
-  
+      "profit": 0
+    }
+  }
 }
